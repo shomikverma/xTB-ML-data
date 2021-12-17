@@ -1,0 +1,315 @@
+stda S1
+overall
+cp mpnn stdaorig r2 -2.10048552279696
+cp mpnn stdafixed r2 0.4506470145389482
+cp mpnn stdaorig MAE 0.7736677204658902
+cp mpnn stdafixed MAE 0.27854870163453105
+filtered
+cp mpnn stdaorig r2 -2.1467733170652523
+cp mpnn stdafixed r2 0.510087199655118
+cp mpnn stdaorig MAE 0.7638344537815126
+cp mpnn stdafixed MAE 0.26780662153633433
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+stda S1
+overall
+cp mpnn stdaorig r2 -1.9300951062066947
+cp mpnn stdafixed r2 0.76316478602625
+cp mpnn stdaorig MAE 0.7723479999999999
+cp mpnn stdafixed MAE 0.14198460270947394
+filtered
+cp mpnn stdaorig r2 -1.964413344887491
+cp mpnn stdafixed r2 0.8453808236012876
+cp mpnn stdaorig MAE 0.7624848484848484
+cp mpnn stdafixed MAE 0.13031058895016834
